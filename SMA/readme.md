@@ -1,1 +1,1 @@
-## SMA Moveover Strategy
+# SMA Crossover Strategy
